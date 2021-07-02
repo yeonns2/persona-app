@@ -25,10 +25,9 @@
 ## Project Introduction
 
 ### 얼굴인식/검출 기반 AI 퍼스널 컨설팅 어플리케이션
-
- persona는 퍼스널 컨설팅 시장의 문제점인 가격, 시간, 대면 서비스(* 자체 설문조사 결과)를 해결해주는 어플리케이션이다.
  
- 기존 시장의 얼굴 인식 서비스들과 달리 정면 뿐 아니라 측면까지 인식하여 얼굴을 분석하며, 사용자의 얼굴 특징을 찾아주고 그에 맞는 스타일 컨설팅(* 헤어스타일 추천, 메이크업 팁)을 제공한다.
+![image](https://user-images.githubusercontent.com/46320067/124223268-5e363c00-db3e-11eb-8106-0b714bc5737e.png)
+
 
 ## Project Development Environment and Language
 
@@ -38,12 +37,15 @@
 ### Language
 - Dart, Python
 
+### App
+- flutter 2.0, firebase
+
 ### AI
 - python v3.6.9, opencv v3.4.2, pytorch v1.8.1+cu101, Dlib, haar cascade
 
 ## Demo
 
-[Demo link](https://youtu.be/6P22nLsFLqE)
+[Demo link](https://youtu.be/uINTpl_FPNA)
 
 
 ## Bugs and Feature Requests
