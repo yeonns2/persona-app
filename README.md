@@ -38,7 +38,7 @@
 - Dart, Python
 
 ### App
-- flutter 2.0, firebase
+- flutter 2.0, firebase, node.js
 
 ### AI
 - python v3.6.9, opencv v3.4.2, pytorch v1.8.1+cu101, Dlib, haar cascade
@@ -56,7 +56,7 @@
 ## About the Contributors
 
 **Ahn Jungyeon**
-- [**@JungyeonAhn**](https://github.com/JungyeonAhn)
+- [**@JungyeonAhn**](https://github.com/yeonns2)
 - <yeonns2@gmail.com>
 
 **Ahn Jisong**
