@@ -1,4 +1,3 @@
-* * *
 
 
 <p align="center">
@@ -10,16 +9,6 @@
 </p>
    
  
-* * *
-
-
-## Table of Contents
-
-- [Project Introduction](#Project-Introduction)
-- [Project Development Environment and Language](#Project-Development-Environment-and-Language)
-- [Demo](#Demo)
-- [Bugs and Feature Requests](#Bugs-and-Feature-Requests)
-- [About the Contributors](#About-the-Contributors)
 
 
 ## Project Introduction
@@ -45,9 +34,11 @@
 
 ## Demo
 
-[Demo link](https://youtu.be/uINTpl_FPNA)
+[**유튜브 데모 영상 ✨**](https://youtu.be/j9_1xhyJeKQ)
 
+[**발표자료 ✨**](https://github.com/yeonns2/persona-app/blob/main/4%E1%84%8C%E1%85%A9_%E1%84%8F%E1%85%A2%E1%86%B8%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%86%AB%E1%84%83%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB_%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf)
 
+    
 ## Bugs and Feature Requests
 
 [**Please do requests here.**](https://github.com/alsrud9909/persona/issues)
